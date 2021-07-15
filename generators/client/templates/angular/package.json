@@ -18,7 +18,7 @@
     "zone.js": "0.10.3"
   },
   "devDependencies": {
-    "@angular/cli": "10.2.0",
+    "@angular/cli": "12.1.2",
     "autoprefixer": "9.8.6",
     "browser-sync": "2.26.13",
     "browser-sync-webpack-plugin": "2.2.2",
